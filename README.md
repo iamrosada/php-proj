@@ -1,6 +1,6 @@
 ## Hi, Axismar
 
-``well, you need to watch some video, i will add here below, this video will help you to connect, i don't have the PhpAdmin in my computer, for that i did some steps that will help you.``
+``well, you need to watch some video, i will add here below, this video will help you to connect database mysql, i don't have the PhpAdmin in my computer, for that i did some steps that will help you.``
 
 ## the first video is
 
